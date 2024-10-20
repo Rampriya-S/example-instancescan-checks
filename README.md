@@ -11,6 +11,8 @@ Open-Sourced community contributed and owned repository for Instance Scan Defini
 # Checks in this repository
 
 ## Category: Manageability
+### Check nactive users are assigned as Catalog item owners
+We should ensure that inactive users are removed from being assigned as Catalog item owners.
 
 ### Create ATFs in sub production instance
 Highly recommended practice to use ATFs for regression testing on instance upgrade and releases.
